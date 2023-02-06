@@ -1,0 +1,2 @@
+class WebisteUrl < ApplicationRecord
+end

@@ -1,24 +1,7 @@
-# README
+$ bin/setup
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+$ bin/rails s
 
-Things you may want to cover:
+http://127.0.0.1:3000/
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Run tests: $ bundle exec rspec

@@ -12,7 +12,7 @@ class WebsiteUrlsController < ApplicationController
       else
         format.html do
           redirect_to root_path,
-          notice: @website_url.errors.full_messages.to_sentence
+                      notice: @website_url.errors.full_messages.to_sentence
         end
       end
     end

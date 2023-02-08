@@ -74,3 +74,5 @@ group :test do
 end
 
 gem 'sass-rails', '~> 6.0'
+
+gem "serviceworker-rails", "~> 0.6.0"

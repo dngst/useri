@@ -1,0 +1,8 @@
+{
+  "short_name": "useri",
+  "name": "useri",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#39c99c",
+  "background_color": "#39c99c"
+}
